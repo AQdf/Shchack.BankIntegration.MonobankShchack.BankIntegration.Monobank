@@ -1,2 +1,2 @@
-# Shchack.BankIntegration.MonobankShchack.BankIntegration.Monobank
+# Shchack.BankIntegration.Monobank
 Monobank API wrapper using .NET.
